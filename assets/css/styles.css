@@ -3,8 +3,23 @@
     background-color: #D9D9D9;
 }
 .c3{
-    margin-top: 15rem;
+    color:#09BC8A;
 
+}
+
+.c0 h1{
+    color:#09BC8A;
+    font-size: 75px;
+}
+
+.c0 h2{
+    color: black;
+    font-size: 60px;
+}
+
+.c3 h1{
+    color:#09BC8A;
+ 
 }
 
 .sky-border-bottom{
@@ -18,19 +33,22 @@
     margin-top: 5rem;
 }
 
+.bottom_arrow_right{
+    width: 13.29px;
+    height: 45.01px;
+    border-radius: 50px;
+    background-color: #D9D9D9;
+    position: center;
+    left: 200px; 
+    /* top: 1207px; */
+    
+
+
+}
 .test_info{
     font-size: 30px;
 }
 
-.c0 h1{
-    color:#09BC8A;
-    font-size: 75px;
-}
-
-.c0 h2{
-    color: black;
-    font-size: 60px;
-}
 
 h2{
     font-size: 40px;
